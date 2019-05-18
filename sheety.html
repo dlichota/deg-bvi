@@ -6,7 +6,7 @@
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
-            $.getJSON('data', function(data) {
+            $.getJSON('https://api.sheety.co/42df5273-34d3-486d-8bf6-328e68d6a834', function(data) {
                 var template = Handlebars.compile($('#item-template').html())
                 $('#items').html(template(data))
             })
