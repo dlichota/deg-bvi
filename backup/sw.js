@@ -44,4 +44,8 @@ self.addEventListener('fetch', function(event) {
       return caches.match('index.html');
     })
   )
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> cloned
