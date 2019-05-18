@@ -1,0 +1,1692 @@
+[
+  {
+    "imageURL": "Hidden",
+    "description": "Hidden",
+    "price": "Hidden",
+    "island": "CategoryFilter - Hidden",
+    "facilities": "csvFilter - Hidden",
+    "type": "StringFilter - Hidden",
+    "name": "StringFilter - Hidden",
+    "rate": "Hidden - RatingType"
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/atasteofindia.jpg",
+    "description": "L'hôtel est situé juste à côté de l'un des plus grands parcs urbains de France, le parc de la Tête d'Or, et du Rhône. Il se trouve à 5 minutes à pied du musée d'art contemporain et à 3 minutes à pied du centre de conventions.\nA continental breakfast buffet, a private parking and a spa with sauna, hammam and hot tubs are available for an extra cost. The residence also has luggage storage in reception.",
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "A Taste of India",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/ab-bar.png",
+    "description": "Hotel Saint Vincent is located 500 metres from Lyon City Hall. All of its rooms include a flat-screen TV with satellite channels, exposed beams and a private bathroom with a hairdryer and free toiletries.\nLocated 5 minutes' walk from Acropolis Palais des Expositions and Acropolis tram stops in Nice, Hipark offers self-catering apartments with access to a seasonal outdoor pool with sun terrace, a sauna and a fitness centre. The property is 2 km from the Promenade des Anglais. Free WiFi is available.",
+    "price": "$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar",
+    "name": "A&B Bar",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/abes-menu.jpg",
+    "description": "The elegant rooms feature wooden floor, a desk and a telephone. Free Wi-Fi access is provided everywhere in the hotel.\nEach air-conditioned soundproofed studio or suite features a fully equipped kitchenette with a refrigerator, oven, electric kettle, dishwasher and kitchenware. They offer a living room with a flat-screen TV with satellite channels, a safety deposit box and a private bathroom.",
+    "price": "$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar",
+    "name": "Abe’s By The Sea",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/alibabas.png",
+    "description": "A breakfast is served every morning in the dining room that features stone walls. Restaurants are located less than 100 metres away.\nA buffet breakfast is served daily in the dining room. There is a 24-hour front desk and a laundry service for an additional cost.\nHipark is a 5-minute walk from Nice-Riquier Train Station and Nice's Old Town is 1.5 km away. Private parking is available for an additional cost.",
+    "price": "$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Ali Baba’s Restaurant",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/anegada_beach_club.png",
+    "description": "Hotel Saint Vincent is located 50 metres from the River Saône and 500 metres from Lyon Museum of Fine Arts. Lyon Perrache Train Station is situated 2 km away.The Adagio Nice Promenade des anglais is located on the Promenade des Anglais. This beach-front aparthotel offers air-conditioned accommodation with sea or city views and free Wi-Fi internet access.",
+    "price": "$$$",
+    "island": "Anegada",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Anegada Beach Club",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/anegadareef.png",
+    "description": "Set in central Lyon, this hotel is a 10-minute tram ride from Part-Dieu Train Station. It has a 24-hour reception and offers soundproofed guest rooms with satellite TV. The soundproof accommodation at the Nice Excellior has satellite TV, en suite facilities and a private balcony or terrace. The apartments also have a seating area and a kitchenette equipped with a microwave and dishwasher.",
+    "price": "$$$",
+    "island": "Anegada",
+    "facilities": "WIFI, Parking",
+    "type": "Bar/Restaurant/Hotel",
+    "name": "Anegada Reef Hotel Restaurant",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/aromas1.jpg",
+    "description": "All of the rooms include a telephone and have a simple décor. Each room has a private bathroom with a hairdryer. All of the rooms are serviced by a lift. A buffet breakfast is served everyday. Adagio Nice Promenade des anglais also provides a 24-hour reception with a tour desk and a currency exchange service. Adagio Nice Promenade des anglais is a 10-minute drive from Nice Train Station and the Old Town. Nice-Cote d’Azur Airport is a just 5 km away.",
+    "price": "$$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar",
+    "name": "Aromas Cigar & Martini Bar",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/bananakeetcafelogo.jpg",
+    "description": "Enjoy a buffet breakfast every morning while reading the newspapers provided at Hôtel du Helder. All of the rooms include a telephone and have a simple décor. Each room has a private bathroom with a hairdryer. All of the rooms are serviced by a lift. A buffet breakfast is served everyday. Adagio Nice Promenade des anglais also provides a 24-hour reception with a tour desk and a currency exchange service. Adagio Nice Promenade des anglais is a 10-minute drive from Nice Train Station and the Old Town. Nice-Cote d’Azur Airport is a just 5 km away.",
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Bananakeet Cafe",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/bananas.png",
+    "description": "Wi-Fi access is provided in the public areas at the Helder hotel, and bike rental is possible on site. Guillotière Metro Station is 450 metres away and the Decorative Arts Museum is a 4-minute walk from the hotel. Lyon Airport is just 15 km away. Each studio has an office area, private bathroom and TV, and the kitchenettes are equipped with cooking facilities, fridge and microwave.",
+    "price": "$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar",
+    "name": "Bananas Bar",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/bathandturtle.jpg",
+    "description": "Guillotière Metro Station is 450 metres away and the Decorative Arts Museum is a 4-minute walk from the hotel. Lyon Airport is just 15 km away.",
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Bath And Turtle/Chez Bamboo Restaurant",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/beans.png",
+    "description": "7th arr. is a great choice for travellers interested in old town, monuments andarchitecture. Guillotière Metro Station is 450 metres away and the Decorative Arts Museum is a 4-minute walk from the hotel. Lyon Airport is just 15 km away.",
+    "price": "$$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar",
+    "name": "Beans Coffee Co.",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/bellscafe.jpg",
+    "description": "Séjours & Affaires Lyon St-Nicolas is located in central Lyon, 300 metres from the Part Dieu TGV train station. The studio apartments offer equipped kitchenettes and free Wi-Fi access.",
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Bell’s Café",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/bigbamboo.png",
+    "description": "Each studio has an office area, private bathroom and TV, and the kitchenettes are equipped with cooking facilities, fridge and microwave. Séjours & Affaires Lyon St-Nicolas is located in central Lyon, 300 metres from the Part Dieu TGV train station. The studio apartments offer equipped kitchenettes and free Wi-Fi access.",
+    "price": "$",
+    "island": "Anegada",
+    "facilities": "WIFI, Parking",
+    "type": "Bar",
+    "name": "Big Bamboo",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/bitterend.jpg",
+    "description": "Séjours & Affaires offers free weekly cleaning and a meeting room. Hotel services available for an additional cost include parking and laundry facilities.",
+    "price": "$$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar/Restaurant/Hotel",
+    "name": "Bitter End",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/Bobby_s Marketplace.jpg",
+    "description": "Séjours & Affaires Lyon St-Nicolas is well located for visiting Place Bellecour and Vieux Lyon (the old town).",
+    "price": "$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Restaurant",
+    "name": "Bobby's Marketplace",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/Brandywine-estate.png",
+    "description": "Novotel Lyon La Part Dieu is located 130 metres from La Part-Dieu TGV Train Station in central Lyon, close to the Part-Dieu Shopping Centre and Les Halles de Lyon Paul Bocuse indoor market. Séjours & Affaires Lyon St-Nicolas is well located for visiting Place Bellecour and Vieux Lyon (the old town).",
+    "price": "$$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Brandywine Estate Restaurant",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/brandywinerooftop.jpg",
+    "description": "Each guest room is soundproofed and air-conditioned, and is equipped with free WiFi and a satellite flat-screen TV. Novotel Lyon La Part Dieu is located 130 metres from La Part-Dieu TGV Train Station in central Lyon, close to the Part-Dieu Shopping Centre and Les Halles de Lyon Paul Bocuse indoor market.",
+    "price": "$$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Brandywine Roof Top Restaurant",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/bvisnuba-logone.jpg",
+    "description": "Lyon Marriott Hotel Cité Internationale offers air-conditioned rooms beside the Rhone River and the Tete d’Or Park. It is housed within the Cite International complex that includes a casino. Guests can use the fitness centre for free. Each guest room is soundproofed and air-conditioned, and is equipped with free WiFi and a satellite flat-screen TV.",
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Watersports",
+    "name": "BVI Snuba",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/bvisupco.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Watersports",
+    "name": "BVI SUPCO",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/callwod.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar",
+    "name": "Callwood Rum Distillery",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/CAMDEN.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Camden Food Co",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/capriccio.jpeg",
+    "description": null,
+    "price": "$$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Capriccio di Mare",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/captainmulligans.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Captain Mulligans",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/captainskitchen.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Restaurant",
+    "name": "Captains Kitchen",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/caribbeanfly.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Watersports",
+    "name": "Caribbean Fly Fishing/Seahorse Yachts",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/Charlie_s-logo-black.jpg",
+    "description": null,
+    "price": "$$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Charlie’s Restaurant & Bar",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/chezbamboo.jpg",
+    "description": null,
+    "price": "$$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Chez Bamboo Restaurant",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/circlecafe.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Restaurant",
+    "name": "Circle Cafe",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/cocoloco.png",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar",
+    "name": "Coco Loco’s Beach Bar",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/coco_maya.png",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Coco Maya Restaurant",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/coolbreeze.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Cool Breeze Sports Bar & Restaurant",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/Cooper-Logo.png",
+    "description": null,
+    "price": "$$",
+    "island": "Cooper Island",
+    "facilities": "WIFI, Parking",
+    "type": "Bar/Restaurant/Hotel",
+    "name": "Cooper Island Beach Club Restaurant",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/corsairs_logo.png",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Corsair’s Beach Bar & Restaurant",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/cowwreck.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Anegada",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Cow Wreck Beach Bar & Grill",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/Crandals-3.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Restaurant",
+    "name": "Crandalls",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/d_bestcup.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Restaurant",
+    "name": "D'Best Cup",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/d_coalpot.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "D'Coal Pot",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/deloosemongoose.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar/Restaurant/Hotel",
+    "name": "De Loose Mongoose",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/deadmans.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Peter Island",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Deadman's Beach Bar & Grill",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/divebvi.png",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Watersports",
+    "name": "Dive BVI",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/dixies.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Dixie’s Bar & Restaurant",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/dove.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Dove Restaurant",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/ea_ssweettooth.png",
+    "description": null,
+    "price": "$$",
+    "island": "Anegada",
+    "facilities": "WIFI, Parking",
+    "type": "Restaurant",
+    "name": "EA’s Sweet Tooth",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/elm_beach_bar.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar",
+    "name": "Elm Beach Bar",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/emiles_large.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Emile’s Restaurant",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/fatvirgin.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Fat Virgin",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/fischerscove.png",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar/Restaurant/Hotel",
+    "name": "Fischer's Cove Beach Hotel & Restaurant",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/flash-of-beauty.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Anegada",
+    "facilities": "WIFI, Parking",
+    "type": "Bar",
+    "name": "Flash of Beauty",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/food-palace.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Restaurant",
+    "name": "Food Palace",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/footloose.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Marina",
+    "name": "Footloose",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/foxystaboo.png",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Foxy's Taboo",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/foxys.png",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Foxy’s Tamarind Bar",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/frenchdeli.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "French Deli",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/garden.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Restaurant",
+    "name": "Garden Restaurant",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/genakercafe.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Genaker Café",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/genes.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Gene’s Bar & Grill",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/gertrudes.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Gertrude’s Beach Bar & Grill",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/giorgio.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Giorgio’s Restaurant & Fantasia by Giorgio’s",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/grams-place-restaurant.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Gram's Place",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/greenhouse.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Greenhouse Bar",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/groundsea.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Watersports",
+    "name": "GroundSea Adventures",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/gumption.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Watersports",
+    "name": "Gumption’s Necker Island Wildlife Tours",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/harrisplace2.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Harris' Place",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/hendos_logo.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Hendo's Hideout",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/heritageinn.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Hotel",
+    "name": "Heritage Inn",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/Hog-Heaven.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Hog Heaven Bar & Restaurant",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/hvm.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "HVM Restaurant and Bar",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/irenes.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Irene’s Restaurant & Bar",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/islandpot.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Island Pot Restaurant",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/islandroots.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Island Roots Cafe",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/island_surf.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Watersports",
+    "name": "Island Surf & Sail",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/ivans.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar",
+    "name": "Ivan’s Stress Free Bar",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/jamaincan.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Restaurant",
+    "name": "Jamaican Kitchen",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/jeremyskitchen.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Restaurant",
+    "name": "Jeremy's Kitchen",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/jostscuba.jpeg",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Watersports",
+    "name": "Jost Van Dyke Scuba",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/jumbies.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Jumbies Beach Bar & The Cove",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/ladysarahs.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Restaurant",
+    "name": "Lady Sarah's Farms",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/laststop.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Watersports",
+    "name": "Last Stop Sports",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/lecabanon.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Le Cabanon",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/leverickbay.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Leverick Bay Restaurant",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/longbay.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar/Restaurant/Hotel",
+    "name": "Long Bay Resort",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/macs.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Restaurant",
+    "name": "Macs",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/maddogs.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Mad Dog Restaurant",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/ManuelReefMarina_logo.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Marina",
+    "name": "Manuel Reef Marina",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/marche.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Marché Bar and Grill",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/mariasbythesea.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar/Restaurant/Hotel",
+    "name": "Maria's by the Sea",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/Matchas-Bar.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Matcha’s Bar & Grill",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/mellowmoods.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Restaurant",
+    "name": "Mellow Moods",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/mermaids.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Mermaids Dockside Bar & Grill",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/Myetts_Chill_Zone_Logo.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Myett’s Chill Zone",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/naturesway.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Restaurant",
+    "name": "Nature's Way",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/neardbeach.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar",
+    "name": "Near D’Beach Limin’ Bar",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/neptunestreasure.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Anegada",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Neptune’s Treasure Restaurant",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/nigels-beach-bar-grill.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Nigel’s Beach Bar & Grill",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/oceans7_logo.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Ocean Seven Too",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/Oilnutbay.png",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Oil Nut Bay Beach Club Restaurant ",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/Omar_s_Logo.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Omar’s Cafe",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/omarsfusion.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Omar’s Fusion",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/originaltiger.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Original Tiger Bar & Restaurant",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/paradise-club-sports.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Paradise Club Lounge Bar & Restaurant",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/paradize-sports.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Watersports",
+    "name": "Paradize Sports",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/pearlorient.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Pearl of the Orient",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/peglegs.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Peg Legs",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/PiratesNorman.png",
+    "description": null,
+    "price": "$$",
+    "island": "Norman Island",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Pirates Bight Restaurant",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/pomato-point.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Anegada",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Pomato Point Restaurant",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/poormansbar.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Poor Man’s Bar – The Baths",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/pottersbythesea.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Anegada",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Potter’s By the Sea – Setting Point",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/pusserscanegarden.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Pusser's Cane Garden Bay",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/Pussersmarinacay.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Marina Cay",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Pusser’s Marina Cay",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/pussersroadtown.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Pusser’s Road Town Pub",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/quitos.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Quito’s Gazebo",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/radas.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Rada’s Restaurant & Bar",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/Red-Rock-Logo.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Red Rock Restaurant & Bar",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/reeffischers.png",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Reef Restaurant at Fischer’s Cove",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/rhymers-hotel-beach-bar-restaurant.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Rhymer’s Beach Bar & Restaurant",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/riteway.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Rite Way Café",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/rotiman.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Roti Man (Mobile)",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/rotiqueen.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Roti Queen",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/royalbviyachtclub.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Royal BVI Yacht Club",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/sabarock-resort.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Saba Rock",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Saba Rock Resort Restaurant – Closed",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/Sail-Caribbean.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Sail Caribbean Divers",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/sandbox-beach-bar-grill.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Prickly Pear",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Sandbox Beach Bar & Grill – Prickly Pear",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/saucez.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Saucez Bar & Grill",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/savetheseed.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Save the Seed",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/scrub-island.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Scrub Island",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Scrub Island Resort Restaurant",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/seahorse.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Seahorse Yacht Charters",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/sebastiansbythesea.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Sebastian’s Seaside Grille",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/seddys.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Seddy’s One Love Bar & Grill",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/sydneys.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Sidney’s Peace and Love",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/SimplyDelicious.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Simply Delicious",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/snappers.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Snapper’s Bar & Grill",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/soggydollar.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Soggy Dollar Bar",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/spanishtowncafe.png",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Spanish Town Cafe",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/stonehaven.png",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Stone Haven Restaurant",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/stoutts-look-out.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Stoutt’s Lookout",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/strawberry.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Strawberrys",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/sugar_spice_logo.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Jost Van Dyke",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Sugar & Spice Snack Bar",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/sugarmill.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Sugar Mill Restaurant",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/sunchaser.png",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Sunchaser Scuba",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/surfschool.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Surf School BVI",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/t_dlookout.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "T&D’s Lookout & Sports Bar",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/tamarindclub.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Tamarind Club Restaurant",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/tastees.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Taystees",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/theclub.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Norman Island",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "The Club",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/thecrawlpub.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "The Crawl Pub",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/thelastresort.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "The Last Resort (CLOSED)",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/thelobstertrap.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Anegada",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "The Lobster Trap",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/themoorings.jpeg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "The Moorings Mariner Inn",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/thepub.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "The Pub",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/the-SoupShop.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "The Soup Shop",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/tommygaunt.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Anegada",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Tommy Gaunt Kitesurfing ",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/tonic.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Tonic Bar and Restaurant",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/topofthebaths.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Top of the Baths Restaurant & Bar",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/tortolasportsclub.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Tortola Sports Club",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/tradewinds.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Peter Island",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Tradewinds Restaurant",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/tramonti.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Tramonti Beach Restaurant",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/trellisbay.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Trellis Bay Market Bar & Grill",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/tropicalfusion.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Tropical Fusion Beach Bar & Grill",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/veganhaven.jpeg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Veggie Haven",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/verandahtreasure.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Verandah Restaurant",
+    "rate": 2
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/vibites.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "VI Bitez",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/villagecafe.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Virgin Gorda",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Village Cafe & Restaurant",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/villagecay.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Village Cay Bar & Restaurant",
+    "rate": 4
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/virgin-queen-logo.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Virgin Queen",
+    "rate": 5
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/wateringhole.png",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Watering Hole",
+    "rate": 1
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/willy-t.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Peter Island",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Willy T – Peter Island",
+    "rate": 3
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/wonkydog.png",
+    "description": null,
+    "price": "$$",
+    "island": "Anegada",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Wonky Dog",
+    "rate": 0
+  },
+  {
+    "imageURL": "https://deg-bvi.netlify.com/img/yomamas-kitchen.jpg",
+    "description": null,
+    "price": "$$",
+    "island": "Tortola",
+    "facilities": "WIFI, Parking",
+    "type": "Bar & Restaurant",
+    "name": "Yo Mama’s Kitchen (Mobile)",
+    "rate": 5
+  }
+]

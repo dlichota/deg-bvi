@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>UK Theme Parks</title>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.12/handlebars.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$.getJSON('https://api.sheety.co/uk-theme-parks', function(data) {
+		var template = Handlebars.compile($('#item-template').html())
+		$('#items').html(template(data))
+	})
+})
+</script>
+<script id="item-template" type="text/x-handlebars-template">
+<ul>
+	{{#each this}}
+		<li><a href="{{website}}">{{name}}</a></li>
+	{{/each}}
+</ul>
+</script>
+</head>
+<body>
+<div id="items">Loading theme parks...</div>
+</body>
+</html>
